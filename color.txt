@@ -1,0 +1,7 @@
+origin => after
+#f4abbf360 #1F6ED4
+#2a93d4 #2a93d4
+#4abbf3 #4abbf3
+#368cbf #368cbf
+#4c5870 #4c5870
+#1F8AFF #1F8AFF
